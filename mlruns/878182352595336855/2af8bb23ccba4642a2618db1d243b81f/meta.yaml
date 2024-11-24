@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/End%20to%20End%20ML%20projects/1st%20ML%20project/mlruns/878182352595336855/2af8bb23ccba4642a2618db1d243b81f/artifacts
+end_time: 1712068320302
+entry_point_name: ''
+experiment_id: '878182352595336855'
+lifecycle_stage: active
+run_id: 2af8bb23ccba4642a2618db1d243b81f
+run_name: able-dog-654
+run_uuid: 2af8bb23ccba4642a2618db1d243b81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712068320204
+status: 4
+tags: []
+user_id: vishal

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/End%20to%20End%20ML%20projects/1st%20ML%20project/mlruns/878182352595336855/359c13091f10471d984c11285d21d53a/artifacts
+end_time: 1712068469877
+entry_point_name: ''
+experiment_id: '878182352595336855'
+lifecycle_stage: active
+run_id: 359c13091f10471d984c11285d21d53a
+run_name: bemused-goat-962
+run_uuid: 359c13091f10471d984c11285d21d53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712068469792
+status: 3
+tags: []
+user_id: vishal
